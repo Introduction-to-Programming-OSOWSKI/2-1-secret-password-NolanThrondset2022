@@ -4,4 +4,4 @@ def password(p):
         return "ACCESS GRANTED"
     else:
         return "ACCESS DENIED"
-print(function("Knights19"))
+print(password("Knights19"))
